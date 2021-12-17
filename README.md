@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ianupamsingh
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Tensorflow and Keras
-- 💞️ I’m looking to collaborate on Tensorflow
+- 💞️ I’m looking to collaborate on Tensorflow and HuggingFace
 - 📫 Reach me @anupamsingh695@gmail.com
 
 <!---
